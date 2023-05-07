@@ -1,4 +1,5 @@
 # Consultas SQL para Comércio de Vendas
+![sql](https://user-images.githubusercontent.com/132700172/236702294-017881c3-d92e-4bc1-b497-d6555037a04d.jpg)
 
 
 
