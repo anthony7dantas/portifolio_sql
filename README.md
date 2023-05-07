@@ -28,25 +28,28 @@ Os dados analisados são provenientes de uma empresa fictícia de comércio de v
 Consulta 1: Vendas por Produto e Mês
 A primeira consulta busca retornar as vendas de cada produto por mês, com o objetivo de identificar o comportamento de vendas ao longo do ano.
 
--Consulta original
+Consulta original
+
 ![consulta 1](https://user-images.githubusercontent.com/132700172/236701420-372d7902-a20f-42c0-a0d6-be186dddb6b2.png)
 
--Consulta otimizada
+Consulta otimizada
+
 ![consulta op 1](https://user-images.githubusercontent.com/132700172/236701436-b610dd18-d9b9-4535-872e-21ee8dc41484.png)
 
 Consulta 2: Estados que Mais Venderam
 A segunda consulta busca retornar os estados que mais venderam, com o objetivo de identificar quais regiões estão gerando mais receita para a empresa.
 
--Consulta original
+Consulta original
+
 ![consulta 2](https://user-images.githubusercontent.com/132700172/236701453-23e39a65-d0cd-4aae-b7d7-a2087ecf1f0f.png)
 
--Consulta otimizada
+Consulta otimizada
+
 ![consulta op 2](https://user-images.githubusercontent.com/132700172/236701460-e277afe5-8a5f-45cd-9747-b4f05e6177af.png)
 
 # Dashboard
-![1677203034833](https://user-images.githubusercontent.com/132700172/236701479-148ebaaf-9f9e-471f-968c-eb80454bd6d8.jpeg)
 
-FOTO
+![1677203034833](https://user-images.githubusercontent.com/132700172/236701479-148ebaaf-9f9e-471f-968c-eb80454bd6d8.jpeg)
 
 
 # Conclusões
